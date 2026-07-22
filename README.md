@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi, I'm Manikantan 👋
+
+Java backend developer building toward full-stack, with a habit of testing
+what I ship.
+
+- 🔭 Currently building: a full-stack project (Spring Boot + React)
+- 🧰 Backend: Java, Spring Boot, Spring Cloud, Hibernate, MySQL, Redis, Docker
+- ✅ Testing: JUnit 5, Mockito, RestAssured, Playwright, Selenium
+- 🌱 Learning: React, Tailwind CSS
+- 📫 Reach me: manikantan1501@gmail.com | [LinkedIn](https://linkedin.com/in/manikantan-deevanooru)
+
 
 <!--
 **Manikantan-96/Manikantan-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
